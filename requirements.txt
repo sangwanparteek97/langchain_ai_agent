@@ -1,2 +1,9 @@
 gradio
 requests
+langchain
+wikipedia
+langchain_google_genai
+pandas
+langchain_community
+langchain_huggingface
+langchain_openai

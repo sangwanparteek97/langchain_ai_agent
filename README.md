@@ -1,15 +1,24 @@
----
-title: Template Final Assignment
-emoji: 🕵🏻‍♂️
-colorFrom: indigo
-colorTo: indigo
-sdk: gradio
-sdk_version: 5.25.2
-app_file: app.py
-pinned: false
-hf_oauth: true
-# optional, default duration is 8 hours/480 minutes. Max duration is 30 days/43200 minutes.
-hf_oauth_expiration_minutes: 480
+# 🤖 AI Agent using LangChain
+
+This project showcases an **AI Agent** built with **LangChain** as part of a course project.  
+The agent is capable of reasoning, decision-making, and interacting with multiple tools to complete tasks autonomously.
+
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## 🚀 Features
+- Uses **LangChain** for agent orchestration  
+- Integrates multiple tools for real-world actions (search, calculations, or videoqa)  
+- Includes **prompt management** and **LLM reasoning** flow  
+- Modular and easily extendable for new tools
+
+---
+
+## 🧠 Tech Stack
+- **Python 3.10+**  
+- **LangChain**  
+- **Hugging Face**  
+- **Google API**
+- **DeepSeek**
+- **Groq**
+
+---
